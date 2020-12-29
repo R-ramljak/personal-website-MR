@@ -8,9 +8,9 @@ education:
   - course: M.Sc. in Statistics
     institution: Utrecht University
     year: 2021
-  - course: Visiting student
-    institution: Utrecht University
-    year: 10/2017-05/2016
+  - course: Summer Institute for Computational Social Science
+    institution: ETH Zürich
+    year: 06/2019
   - course: B.A. in Political Science
     institution: Zeppelin University
     year: 2018
