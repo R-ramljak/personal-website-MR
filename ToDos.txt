@@ -1,0 +1,13 @@
+To Dos
+
+Implement Portfolio/Project page with the following examples
+- MNO
+- Shiny Ramboll
+- Diversity ZU
+- CSSS
+
+Implement Teachings and awards
+
+Implement new CV
+
+Implement better About - Text

@@ -25,6 +25,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Thesis Intern
+    company: Statistics Netherlands (CBS)
+    company_url: 'https://www.cbs.nl/en-gb/'
+    location: The Hague, The Netherlands
+    date_start: '2020-09-01'
+    date_end: ''
+    description: The goal of the internship is to learn skills in the field of Official Statistics and research methods and workflows to measure bias (main quality measure) in non-probability samples. Current working title:"Quality of Estimates based on Non-Probability Samples".  
+
+
   - title: Geospatial Data Analyst
     company: Ramboll
     company_url: 'https://de.ramboll.com/management-consulting/'

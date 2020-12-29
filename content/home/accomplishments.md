@@ -13,7 +13,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Research Activities'
 subtitle:
 
 # Date format
@@ -26,28 +26,27 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2018-10-01"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
+- certificate_url:
+  date_start: "2019-06-01"
+  description: "2-week Summer Institute with a focus on learning about and applying methods and tools such as: Machine Learning, NLP, Network Analysis."
+  organization: ETH Zürich, Switzerland
+  organization_url:
+  title: Summer Institute for Computational Social Science
+  url: "https://sicss.io/2019/ethzurich/people/"
+  
+- certificate_url:
+  date_start: "2017-09-01"
+  description: A quantitative-spatial analysis to identify student networks to promote the university’s diversity.
+  organization: Executive Commitee Zeppelin University
+  organization_url:
+  title: Quantifying Diversity at Zeppelin University
+  url: www.bit.ly/ZeppelinGeo/
+
+- certificate_url:
   date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  description: "Development of a panel data set of multiple local elections in Germany with a descriptive analysis on voting turnout. Preparation for the Bachelor thesis."
+  organization: Chair of Political Sociology Zeppelin University
+  organization_url:
+  title: 'Key figures on the municipality level in Germany'
   url: ""
 ---

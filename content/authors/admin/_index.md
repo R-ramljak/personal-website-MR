@@ -22,7 +22,7 @@ interests:
 - Correcting for Bias (in Non-Probability Samples)
 organizations:
 - name: Utrecht University
-role: Graduate Student
+role: Graduate Student in Statistics | EMOS
 social:
 - icon: envelope
   icon_pack: fas
