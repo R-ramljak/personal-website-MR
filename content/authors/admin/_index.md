@@ -41,4 +41,4 @@ I am a passionate R-user with a B.A. in Political Science and currently pursuing
 
 In my free time I spend most of my time outside - my
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV-Ramljak-new.pdf" "newtab" >}}resumé{{< /staticref >}}.
