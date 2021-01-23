@@ -37,8 +37,6 @@ superuser: true
 title: Marco Ramljak
 ---
 
-I am a passionate R-user with a B.A. in Political Science and currently pursuing my M.Sc. in Statistics at Utrecht University. I love the field of Official Statistics because ... In my Master Thesis at Statistics Netherlands (CBS), I am researching the ‘Quality of estimates based on non-probability samples’. In the past, I have worked as a full-time Geospatial Data Analyst at a public sector consultancy implementing advanced quantitative methods and solutions in evaluation designs as well as a research and teaching assistant for topics on Statistics, Data Visualization and Electoral Studies. 
-
-In my free time I spend most of my time outside - my
+I am a passionate R-user with a B.A. in Political Science and currently pursuing my M.Sc. in Statistics at Utrecht University. In my Master Thesis at Statistics Netherlands (CBS), I am researching the ‘Quality of estimates based on non-probability samples’. In the past, I have worked as a full-time Geospatial Data Analyst at a public sector consultancy implementing advanced quantitative methods and solutions in evaluation designs as well as a research and teaching assistant for topics on Statistics, Data Visualization and Electoral Studies. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV-Ramljak-new.pdf" "newtab" >}}resumé{{< /staticref >}}.
