@@ -34,6 +34,14 @@ experience:
     date_end: ''
     description: The goal of the internship is to learn skills in the field of Official Statistics and research methods and workflows to measure bias (main quality measure) in non-probability samples. Current working title:"Quality of Estimates based on Non-Probability Samples".  
 
+  - title: EUROSTAT Coding Lab
+    company: EUROSTAT
+    company_url: 'https://github.com/R-ramljak/MNO_Eurostat'
+    location: Remote
+    date_start: '2020-07-01'
+    date_end: '2020-12-10'
+    project_url: https://github.com/R-ramljak/MNO_Eurostat
+    description: Collaborative simulation study on estimating present population based on mobile network operator data.  
 
   - title: Geospatial Data Analyst
     company: Ramboll
